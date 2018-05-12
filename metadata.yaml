@@ -1,0 +1,30 @@
+_repo: A-History-of-Sanskrit-Literature_41563
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41563-h/images/new-cover.jpg
+creator:
+  author:
+    agent_name: Macdonell, Arthur Anthony
+    aliases:
+    - Macdonell, A. A. (Arthur Anthony)
+    - MacDonell, Arthur A.
+    birthdate: 1854
+    deathdate: 1930
+    gutenberg_agent_id: '41239'
+    url: http://www.gutenberg.org/2009/agents/41239
+description: ''
+gutenberg_issued: '2012-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41563'
+  lccn: 04014095
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PK'
+- !lcsh 'Sanskrit literature -- History and criticism'
+title: A History of Sanskrit Literature
+url: http://www.gutenberg.org/ebooks/41563
